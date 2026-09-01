@@ -1,7 +1,7 @@
 :root {
     --branco-principal: #FFFFFF;
     --cinza-secundaerio: #c0c0c0;
-    --botao-azul: #167BF7;
+    --botao-azul: hwb(64 2% 0%);
     --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
     --botao-azul-efeito: #308cfb; 
